@@ -7,6 +7,11 @@ Biblioteke potrebne za kodove:
 6. transformers
 7. accelerate
 8. timm
-9. albumentations
 10. torch: pip3 install torch torchvision torchaudio
-11. dataclasses
+11. torchmetrics
+12. albumentations
+13. dataclasses
+14. pycocotools
+15. functools
+16. huggingface_hub
+
